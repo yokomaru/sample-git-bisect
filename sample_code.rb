@@ -2,9 +2,9 @@
 # frozen_string_literal: true
 
 def hello
-  a = 3
+  a_num = 5
   b = 2
-  if a + b == 5
+  if a_num + b == 5
     p "こんにちは"
   end
 end
