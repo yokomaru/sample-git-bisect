@@ -3,5 +3,7 @@
 
 def hello
   a = 5
-  p "こんにちは"
+  if a == 5
+    p "こんにちは"
+  end
 end
