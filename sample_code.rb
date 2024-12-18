@@ -8,3 +8,11 @@ def hello
     p "こんにちは"
   end
 end
+
+def goodbye
+  c_num = 3
+  d_num = 2
+  if c_num + d_num == 5
+    p "こんばんは"
+  end
+end
